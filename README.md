@@ -1,1 +1,1 @@
-Checkout the repository's branches for MWEs.
+Check out the repository's branches for MWEs.
