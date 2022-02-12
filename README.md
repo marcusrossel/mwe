@@ -1,0 +1,1 @@
+Discussion: https://leanprover.zulipchat.com/#narrow/stream/270676-lean4/topic/Mem.20synthesis.20fails
